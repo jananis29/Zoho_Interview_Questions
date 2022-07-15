@@ -1,5 +1,10 @@
 package set1;
+/*
+4. Given a 9×9 sudoku we have to evaluate it for its correctness.
+We have to check both the sub matrix correctness and the whole sudoku correctness.
 
+https://www.geeksforgeeks.org/zoho-interview-set-1-campus/
+*/
 import java.util.*;
 
 public class Question4 {
